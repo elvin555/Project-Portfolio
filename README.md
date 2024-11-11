@@ -8,3 +8,6 @@
 2. 協作運營 - 大個金通知管理內部平台 (Platform Manager)
 
 3. 功能規劃 - 行動銀行新增數位帳戶升級服務(Product Owner) 
+
+##Project detail
+[Project-Portfolio](https://drive.google.com/file/d/1zQ9lOXdLzQF0-5rleR2r7FibpkuzwFyy/view?usp=drive_link)
